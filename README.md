@@ -16,4 +16,8 @@ I designed a prototype of the ventilator that can toggle between more than one I
 
 
 ## **Diagram**
-![machine diagram](https://github.com/Safwanmahmoud/Ventilator-Prototype/blob/main/vent.png)
+![image](https://user-images.githubusercontent.com/61354965/159890012-bfc39e08-5eb0-40ab-a702-ccfb27cf8e17.png)
+
+
+##**Video**
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6905353007287136256" height="761" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
