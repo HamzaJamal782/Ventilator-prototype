@@ -20,5 +20,8 @@ I designed a prototype of the ventilator that can toggle between more than one I
 
 
 ## **Video**
-[![Watch the video](https://user-images.githubusercontent.com/61354965/159891156-e493bf77-8825-405a-89da-385251c5e972.png)](https://www.linkedin.com/posts/hamzajamal782_project-ventilator-arduino-activity-6905353913839796224-xzMy?utm_source=linkedin_share&utm_medium=member_desktop_web)
+
+
+https://user-images.githubusercontent.com/61354965/167752051-951d7960-23a3-4723-b087-d0077f16c0ca.mp4
+
 
